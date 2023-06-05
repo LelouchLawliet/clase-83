@@ -1,0 +1,12 @@
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_backgorund {
+    background-image: url("https://th.bing.com/th/id/R.e0ebbb6dd3771f0d75b12e6099015645?rik=fGrhuiLi3LNU3A&riu=http%3a%2f%2fimagenesparacelulares.net%2fwp-content%2fuploads%2f2014%2f09%2f427053.jpg&ehk=ALaZcHw9j36t0enM%2b3TY62274PaaiuD%2fADdGtXMTIZI%3d&risl=&pid=ImgRaw&r=0");
+}
+
+#canvas{ background-color: aliceblue;
+border-width: 10px; border-style: ridge;
+}
